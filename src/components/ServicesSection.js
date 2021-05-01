@@ -3,9 +3,9 @@ import styled from "styled-components";
 import {InnerLayout} from "../styles/Layout";
 import Title from "./Title";
 import ServiceCard from "./ServiceCard";
-import design from "../media/design.svg"
-import intelligence from "../media/intelligence.svg"
-import gamedev from "../media/game-dev.svg"
+import design from "../images/design.svg"
+import intelligence from "../images/intelligence.svg"
+import gamedev from "../images/game-dev.svg"
 
 
 function ServicesSection() {

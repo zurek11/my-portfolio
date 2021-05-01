@@ -1,5 +1,5 @@
 import React from "react";
-import avatar from '../media/avatar.jpg'
+import avatar from '../images/avatar.jpg'
 import styled from 'styled-components'
 import {NavLink} from "react-router-dom";
 
@@ -23,8 +23,8 @@ function Navigation() {
                     <NavLink to="/portfolio" activeClassName="active-class" exact>
                         Portfolio
                     </NavLink>
-                    <NavLink to="/blog" activeClassName="active-class" exact>
-                        Blog
+                    <NavLink to="/blogs" activeClassName="active-class" exact>
+                        Blogs
                     </NavLink>
                     <NavLink to="/contact" activeClassName="active-class" exact>
                         Contact
