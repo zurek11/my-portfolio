@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import {InnerLayout} from "../styles/Layout";
-import Title from "./Title";
+import {InnerLayout} from "../../styles/Layout";
+import Title from "../Titles/Title";
 import ReviewItem from "./ReviewItem";
 
 

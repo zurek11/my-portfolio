@@ -4,7 +4,7 @@ import FacebookIcon from '@material-ui/icons/Facebook'
 import GithubIcon from '@material-ui/icons/GitHub'
 import LinkedinIcon from '@material-ui/icons/LinkedIn'
 import InstagramIcon from '@material-ui/icons/Instagram'
-import Particle from "../components/Particles";
+import Particle from "../components/Home/Particles";
 
 function HomePage() {
     return (

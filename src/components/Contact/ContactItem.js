@@ -47,11 +47,6 @@ const ContactItemStyled = styled.div`
   .item-right-content {
     margin-top: 0;
     
-    h6 {
-      color: var(--white-color);
-      font-size: 1.2rem;
-      padding-bottom: .6rem;
-    }
     p {
       padding: .1rem 0;
     }

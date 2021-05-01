@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 import blogs from "../data/blogs";
-import Title from "../components/Title";
+import Title from "../components/Titles/Title";
 import {MainLayout, InnerLayout} from "../styles/Layout";
 
 

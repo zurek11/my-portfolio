@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import resume from '../images/resume.jpg';
-import PrimaryButton from "./PrimaryButton";
+import resume from '../../images/resume.jpg';
+import PrimaryButton from "../PrimaryButton";
 
 
 function ImageSection() {

@@ -1,11 +1,11 @@
 import Particles from "react-particles-js";
 import React from "react";
 
-import python_logo from "../images/python_logo.svg"
-import react_logo from "../images/react_logo.svg"
-import postgresql_logo from "../images/postgresql_logo.svg"
-import javascript_logo from "../images/javascript_logo.svg"
-import django_logo from "../images/django_logo.svg"
+import python_logo from "../../images/python_logo.svg"
+import react_logo from "../../images/react_logo.svg"
+import postgresql_logo from "../../images/postgresql_logo.svg"
+import javascript_logo from "../../images/javascript_logo.svg"
+import django_logo from "../../images/django_logo.svg"
 
 function Particle() {
     return (

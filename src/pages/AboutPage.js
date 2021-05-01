@@ -1,10 +1,10 @@
 import React from "react";
 import styled from "styled-components";
 import {MainLayout} from "../styles/Layout";
-import Title from "../components/Title";
-import ImageSection from "../components/ImageSection";
-import ServicesSection from "../components/ServicesSection";
-import ReviewsSection from "../components/ReviewsSection";
+import Title from "../components/Titles/Title";
+import ImageSection from "../components/About/ImageSection";
+import ServicesSection from "../components/About/ServicesSection";
+import ReviewsSection from "../components/About/ReviewsSection";
 
 
 function AboutPage() {

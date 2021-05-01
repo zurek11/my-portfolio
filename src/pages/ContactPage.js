@@ -2,13 +2,13 @@ import React from "react";
 import styled from "styled-components";
 
 import {MainLayout, InnerLayout} from "../styles/Layout";
-import Title from "../components/Title";
+import Title from "../components/Titles/Title";
 import PrimaryButton from "../components/PrimaryButton";
 
 import PhoneIcon from '@material-ui/icons/Phone'
 import EmailIcon from '@material-ui/icons/Email'
 import LocationIcon from '@material-ui/icons/LocationOn'
-import ContactItem from "../components/ContactItem";
+import ContactItem from "../components/Contact/ContactItem";
 
 
 function ContactPage() {
